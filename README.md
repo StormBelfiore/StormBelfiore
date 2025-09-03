@@ -1,4 +1,4 @@
-# Hi, I’m Stevie 👋
+# Hi, I’m Storm 👋
 
 I build secure, human-centered backends and dashboards:
 - FastAPI + systemd services with health checks
